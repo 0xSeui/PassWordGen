@@ -7,7 +7,7 @@ It allows users to generate secure random passwords with customizable length, co
 
 ## 📸 Screenshot
 
-![PassWordGen Screenshot](./screenshot.png)
+![PassWordGen Screenshot](./Screenshot.png)
 
 ---
 
