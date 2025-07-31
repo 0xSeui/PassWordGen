@@ -31,7 +31,7 @@ void copyToClipboard(const string& text) {
 // Function Save The Password
 void savePassword(string PassWord)
      {     
-         ofstream file("passwords.txt", ios::app); // ios::app = إضافة دون حذف القديم
+         ofstream file("passwords.txt", ios::app); // 
           if (file.is_open()) {
         file << PassWord << endl;
         file.close();
